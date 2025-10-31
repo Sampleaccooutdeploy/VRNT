@@ -80,7 +80,6 @@ export function StudentTable({ students, title, emptyMessage, onStudentUpdated }
                     <TableHead>{t('passportPhoto')}</TableHead>
                     <TableHead>{t('certificate')}</TableHead>
                     <TableHead>{t('aadhaarCard')}</TableHead>
-                    <TableHead>{t('category')}</TableHead>
                   </TableRow>
                 </TableHeader>
                 <TableBody>
@@ -151,17 +150,6 @@ export function StudentTable({ students, title, emptyMessage, onStudentUpdated }
                         ) : (
                           '-'
                         )}
-                      </TableCell>
-                      <TableCell>
-                        <span
-                          className={`px-2 py-1 rounded text-xs font-medium ${
-                            student.category === 'P'
-                              ? 'bg-green-100 text-green-800'
-                              : 'bg-blue-100 text-blue-800'
-                          }`}
-                        >
-                          {student.category}
-                        </span>
                       </TableCell>
                     </TableRow>
                   ))}
