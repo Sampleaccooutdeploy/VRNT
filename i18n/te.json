@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "VRNT",
+    "subtitle": "వేద రక్షణ నిధి ట్రస్ట్"
+  },
+  "search": {
+    "placeholder": "UID ద్వారా శోధించండి...",
+    "searching": "శోధిస్తోంది...",
+    "noResults": "రికార్డులు కనుగొనబడలేదు"
+  },
+  "tables": {
+    "public": "పబ్లిక్ విద్యార్థులు",
+    "private": "ప్రైవేట్ విద్యార్థులు",
+    "noPublicRecords": "పబ్లిక్ రికార్డులు కనుగొనబడలేదు",
+    "noPrivateRecords": "ప్రైవేట్ రికార్డులు కనుగొనబడలేదు"
+  },
+  "fields": {
+    "uid": "UID",
+    "name": "పేరు (ఆధార్ ప్రకారం)",
+    "mobile": "మొబైల్",
+    "email": "ఇమెయిల్",
+    "vedham": "వేదం",
+    "dob": "పుట్టిన తేదీ",
+    "fatherName": "తండ్రి పేరు",
+    "shaka": "శాఖ",
+    "gothram": "గోత్రం",
+    "soothram": "సూత్రం",
+    "certifiedIn": "ప్రమాణపత్రం పొందినది",
+    "year": "ప్రమాణపత్ర సంవత్సరం",
+    "school": "పాఠశాల",
+    "vedaAdhyapakar": "వేద అధ్యాపకుడు",
+    "certificate": "ప్రమాణపత్రం",
+    "passportPhoto": "ఫోటో",
+    "aadhaarCard": "ఆధార్ కార్డు",
+    "category": "వర్గం",
+    "address": "చిరునామా",
+    "aadhaarNumber": "ఆధార్ నంబర్"
+  },
+  "actions": {
+    "edit": "సవరించు",
+    "save": "సేవ్ చేయి",
+    "cancel": "రద్దు",
+    "upload": "అప్లోడ్ చేయి",
+    "delete": "తొలగించు",
+    "view": "చూడండి",
+    "close": "మూసివేయి"
+  },
+  "modal": {
+    "editStudent": "విద్యార్థి వివరాలను సవరించండి",
+    "basicInfo": "ప్రాథమిక సమాచారం",
+    "familyVedicInfo": "కుటుంబం & వైదిక సమాచారం",
+    "certificationInfo": "ప్రమాణపత్ర సమాచారం",
+    "documents": "పత్రాలు"
+  },
+  "category": {
+    "public": "పబ్లిక్ (P)",
+    "private": "ప్రైవేట్ (S)"
+  },
+  "messages": {
+    "saveSuccess": "విద్యార్థి వివరాలు విజయవంతంగా నవీకరించబడ్డాయి",
+    "saveError": "విద్యార్థి వివరాలను నవీకరించడంలో విఫలమైంది",
+    "uploadSuccess": "ఫైల్ విజయవంతంగా అప్లోడ్ చేయబడింది",
+    "uploadError": "ఫైల్ అప్లోడ్ చేయడంలో విఫలమైంది",
+    "deleteSuccess": "ఫైల్ విజయవంతంగా తొలగించబడింది",
+    "deleteError": "ఫైల్ తొలగించడంలో విఫలమైంది"
+  },
+  "validation": {
+    "required": "ఈ ఫీల్డ్ తప్పనిసరి",
+    "invalidEmail": "చెల్లని ఇమెయిల్ చిరునామా",
+    "invalidMobile": "చెల్లని మొబైల్ నంబర్",
+    "invalidAadhaar": "చెల్లని ఆధార్ నంబర్"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "VRNT",
+    "subtitle": "வேத ரக்ஷணா நிதி அறக்கட்டளை"
+  },
+  "search": {
+    "placeholder": "UID மூலம் தேடுங்கள்...",
+    "searching": "தேடுகிறது...",
+    "noResults": "பதிவுகள் இல்லை"
+  },
+  "tables": {
+    "public": "பொது மாணவர்கள்",
+    "private": "தனிப்பட்ட மாணவர்கள்",
+    "noPublicRecords": "பொது பதிவுகள் இல்லை",
+    "noPrivateRecords": "தனிப்பட்ட பதிவுகள் இல்லை"
+  },
+  "fields": {
+    "uid": "UID",
+    "name": "பெயர் (ஆதார் படி)",
+    "mobile": "மொபைல்",
+    "email": "மின்னஞ்சல்",
+    "vedham": "வேதம்",
+    "dob": "பிறந்த தேதி",
+    "fatherName": "தந்தையின் பெயர்",
+    "shaka": "சாகை",
+    "gothram": "கோத்திரம்",
+    "soothram": "சூத்திரம்",
+    "certifiedIn": "சான்றிதழ் பெற்றது",
+    "year": "சான்றிதழ் ஆண்டு",
+    "school": "பள்ளி",
+    "vedaAdhyapakar": "வேத அத்யாபகர்",
+    "certificate": "சான்றிதழ்",
+    "passportPhoto": "புகைப்படம்",
+    "aadhaarCard": "ஆதார் அட்டை",
+    "category": "வகை",
+    "address": "முகவரி",
+    "aadhaarNumber": "ஆதார் எண்"
+  },
+  "actions": {
+    "edit": "திருத்து",
+    "save": "சேமி",
+    "cancel": "ரத்து",
+    "upload": "பதிவேற்று",
+    "delete": "அழி",
+    "view": "காண்க",
+    "close": "மூடு"
+  },
+  "modal": {
+    "editStudent": "மாணவர் விவரங்களைத் திருத்து",
+    "basicInfo": "அடிப்படை தகவல்",
+    "familyVedicInfo": "குடும்பம் & வேத தகவல்",
+    "certificationInfo": "சான்றிதழ் தகவல்",
+    "documents": "ஆவணங்கள்"
+  },
+  "category": {
+    "public": "பொது (P)",
+    "private": "தனிப்பட்ட (S)"
+  },
+  "messages": {
+    "saveSuccess": "மாணவர் விவரங்கள் வெற்றிகரமாக புதுப்பிக்கப்பட்டன",
+    "saveError": "மாணவர் விவரங்களை புதுப்பிக்க முடியவில்லை",
+    "uploadSuccess": "கோப்பு வெற்றிகரமாக பதிவேற்றப்பட்டது",
+    "uploadError": "கோப்பு பதிவேற்ற முடியவில்லை",
+    "deleteSuccess": "கோப்பு வெற்றிகரமாக அழிக்கப்பட்டது",
+    "deleteError": "கோப்பு அழிக்க முடியவில்லை"
+  },
+  "validation": {
+    "required": "இந்த புலம் தேவை",
+    "invalidEmail": "தவறான மின்னஞ்சல் முகவரி",
+    "invalidMobile": "தவறான மொபைல் எண்",
+    "invalidAadhaar": "தவறான ஆதார் எண்"
+  }
+}

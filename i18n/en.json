@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "VRNT",
+    "subtitle": "Veda Rakshana Nidhi Trust"
+  },
+  "search": {
+    "placeholder": "Search by UID...",
+    "searching": "Searching...",
+    "noResults": "No records found"
+  },
+  "tables": {
+    "public": "Public Students",
+    "private": "Private Students",
+    "noPublicRecords": "No Public Records Found",
+    "noPrivateRecords": "No Private Records Found"
+  },
+  "fields": {
+    "uid": "UID",
+    "name": "Name (as in Aadhaar)",
+    "mobile": "Mobile",
+    "email": "Email",
+    "vedham": "Vedham",
+    "dob": "Date of Birth",
+    "fatherName": "Father's Name",
+    "shaka": "Shaka",
+    "gothram": "Gothram",
+    "soothram": "Soothram",
+    "certifiedIn": "Certified In",
+    "year": "Year of Certification",
+    "school": "School",
+    "vedaAdhyapakar": "Veda Adhyapakar",
+    "certificate": "Certificate",
+    "passportPhoto": "Passport Photo",
+    "aadhaarCard": "Aadhaar Card",
+    "category": "Category",
+    "address": "Address",
+    "aadhaarNumber": "Aadhaar Number"
+  },
+  "actions": {
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "upload": "Upload",
+    "delete": "Delete",
+    "view": "View",
+    "close": "Close"
+  },
+  "modal": {
+    "editStudent": "Edit Student Details",
+    "basicInfo": "Basic Information",
+    "familyVedicInfo": "Family & Vedic Information",
+    "certificationInfo": "Certification Information",
+    "documents": "Documents"
+  },
+  "category": {
+    "public": "Public (P)",
+    "private": "Private (S)"
+  },
+  "messages": {
+    "saveSuccess": "Student details updated successfully",
+    "saveError": "Failed to update student details",
+    "uploadSuccess": "File uploaded successfully",
+    "uploadError": "Failed to upload file",
+    "deleteSuccess": "File deleted successfully",
+    "deleteError": "Failed to delete file"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidMobile": "Invalid mobile number",
+    "invalidAadhaar": "Invalid Aadhaar number"
+  }
+}
